@@ -7,6 +7,8 @@ public class demo1 {
 		int a=10,b=10;
 		int c=a+b;
 		System.out.println("Addition = "+c);
+		c=a-b;
+		System.out.println("Subtraction = "+c);
 	}
 
 }
