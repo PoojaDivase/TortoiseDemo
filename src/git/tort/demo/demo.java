@@ -8,6 +8,8 @@ public class demo {
 		System.out.println("World...!");
 		System.out.println("Hiiiiiiiiii....");
 		System.out.println("Hellooooo....");
+		System.out.println("Hellooooo....World....");
+		
 	}
 
 }
